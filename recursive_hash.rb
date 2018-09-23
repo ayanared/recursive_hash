@@ -1,6 +1,4 @@
 
-
-
 def recurse(hash)
     # if the value is not a hash, return the value of the hash
     return hash unless hash.is_a?(Hash)
